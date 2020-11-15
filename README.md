@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: My favorite fruit is the barbary fig.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajlaAlbaz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajlaAlbaz&exclude_repo=Tamkeen_v3,Clustering_workshop)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
